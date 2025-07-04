@@ -10,6 +10,17 @@
 ##  Description
 **Infosage** is a fast, modular website footprinting toolkit by **Genos**, built for cybersecurity professionals, ethical hackers, and penetration testers. It automates domain reconnaissance with WHOIS, DNS, email, subdomain, and Nmap scans, featuring progress bars, color-coded outputs, and auto tool installation.
 
+It is a powerful, modular website footprinting toolkit developed for cybersecurity professionals, ethical hackers, and penetration testers. It automates essential reconnaissance tasks such as WHOIS lookups, DNS queries, email enumeration, subdomain discovery, and Nmap scanning, all in one streamlined tool.
+
+Infosage is built with simplicity and efficiency in mind. It features a clean, menu-driven interface that guides users through each step of the footprinting process. Even beginners can comfortably use the tool, while experienced professionals will appreciate its speed and automation capabilities.
+
+The toolkit integrates real-time progress bars, color-coded terminal outputs, and auto-installation of missing tools to provide a smooth and responsive user experience. Infosage ensures you are connected to the internet before execution, preventing wasted time and incomplete scans.
+
+All gathered results are automatically saved and neatly organized in the `footprint_results` directory, making it easy to review and analyze your findings later. This saves time and keeps your recon data structured.
+
+Infosage is optimized for Kali Linux environments but can be adapted to other Linux distributions with minimal adjustments. Whether you’re conducting professional penetration tests or learning cybersecurity, Infosage helps you work faster, stay organized, and dig deeper into your targets.
+
+
 ---
 ## Screenshots
 
