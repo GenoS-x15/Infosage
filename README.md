@@ -32,7 +32,7 @@ Follow these steps to install **Infosage** on your system:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/GenoS-x15/infosage.git
+git clone https://github.com/GenoS-x15/Infosage.git 
 cd infosage
 ```
 ### Step 2: Install Python Dependencies
