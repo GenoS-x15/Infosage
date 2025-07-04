@@ -68,7 +68,7 @@ python3 infosage.py <target-domain>
 - Kali Linux (or compatible Linux)
 ---
 ## Author
-**Genos aka (Shubham Singh Rajput)**
+Genos aka (Shubham Singh Rajput)
 Developer and Creator of Infosage – Website Footprinting Toolkit
 ---
 ### Developer's Note
