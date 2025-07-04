@@ -2,12 +2,11 @@
 
 ## Reporting a Vulnerability
 
-The Infosage team (by Genos) encourages responsible disclosure. If you discover a security vulnerability, please report it by emailing:
+The Infosage team (by Genos) encourages responsible disclosure. If you discover a security vulnerability, please report us via Linked in.
 
-📧 security-infosage@protonmail.com
 
 You may (but are not required to) use PGP for encrypted communication. The public key is available at:
-🔑 https://github.com/yourusername/infosage/security
+🔑 https://github.com/GenoS-x15/Infosage.git
 
 ---
 
