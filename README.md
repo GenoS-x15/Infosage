@@ -11,14 +11,19 @@
 **Infosage** is a fast, modular website footprinting toolkit by **Genos**, built for cybersecurity professionals, ethical hackers, and penetration testers. It automates domain reconnaissance with WHOIS, DNS, email, subdomain, and Nmap scans, featuring progress bars, color-coded outputs, and auto tool installation.
 
 ---
-## 🖼️ Screenshots
-> 📌 _Add your screenshots here:_
+## Screenshots
 
-**Infosage Banner**
-![Banner](images/banner.png)
+### 🔸 Banner
+![Banner](banner.png)
 
-**Footprinting Menu**
-![Menu](images/menu.png)
+### 🔸 Tools Menu
+![Tools Menu](tools.png)
+
+### 🔸 Command Executed
+![Command Executed](cmdrun.png)
+
+### 🔸 Viewing Saved Result
+![View Saved Result](result.png)
 
 ---
 
