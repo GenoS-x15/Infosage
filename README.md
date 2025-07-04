@@ -33,7 +33,7 @@ Follow these steps to install **Infosage** on your system:
 ### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/GenoS-x15/Infosage.git 
-cd infosage
+cd Infosage
 ```
 ### Step 2: Install Python Dependencies
 ```bash
@@ -43,9 +43,9 @@ pip install tqdm colorama
 ## Usage Guide
 ---
 ```bash
-python3 infosage.py <target-domain>
+python3 Infosage.py <target-domain>
 ```
-  for Example: python3 genos.py microsoft.com
+  for Example: python3 Infosage.py microsoft.com
 
 ## Features
 - WHOIS Lookup
